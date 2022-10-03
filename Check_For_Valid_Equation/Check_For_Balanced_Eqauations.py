@@ -4,9 +4,7 @@
 # In[24]:
 
 
-# Furqan ALi
-# 200901073
-# BS-CS-01-B
+
 from collections import deque
 
 
